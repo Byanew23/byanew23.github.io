@@ -1,0 +1,3 @@
+mayamath.xyz {
+	reverse_proxy http://localhost:8080
+}
